@@ -2,19 +2,399 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04ed1fb2-e23d-4500-a2bf-5bf6a1afe42e" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/bootstrap-theme.0b6e29aadc4a.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/bootstrap-theme.0b6e29aadc4a.css.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/bootstrap-theme.css.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/bootstrap-theme.min.9377a32d485f.css.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/bootstrap-theme.min.css.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/details.css.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/details.f960de324534.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/details.f960de324534.css.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/static/videos/EnvisionIntroduction.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/static/videos/EnvisionWebsiteGuide.mp4" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/envision/engineer/templates/engineer/engineer_form.html" afterPath="$PROJECT_DIR$/envision/engineer/templates/engineer/engineer_form.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/envision/engineer/static/styles.css" afterPath="$PROJECT_DIR$/envision/engineer/static/styles.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/css/base.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/css/base.f0d165989b77.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/css/base.f0d165989b77.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/css/changelists.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/css/changelists.facd9faec460.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/css/changelists.facd9faec460.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/css/dashboard.4898e2e9983d.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/css/dashboard.4898e2e9983d.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/css/dashboard.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/css/forms.4d10ed9b5ee5.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/css/forms.4d10ed9b5ee5.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/css/forms.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/css/ie.2ca52592ccf6.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/css/ie.2ca52592ccf6.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/css/ie.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/css/login.9ee3563a2bfe.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/css/login.9ee3563a2bfe.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/css/login.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/css/rtl.b619957e18c9.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/css/rtl.b619957e18c9.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/css/rtl.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/css/widgets.2753875e2781.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/css/widgets.2753875e2781.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/css/widgets.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/img/changelist-bg.eaa563daae2a.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/img/changelist-bg_rtl.db38ab536edc.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/img/default-bg-reverse.2c9949b0bac0.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/img/default-bg.af816e70c828.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/img/deleted-overlay.1cd28ce73d7d.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/img/gis/move_vertex_off.93ee41d8cad9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/img/gis/move_vertex_on.99be2571b3f6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/img/icon-no.2888642640a3.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/img/icon-unknown.662022bb6ab0.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/img/icon-yes.0596085e212f.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/img/icon_addlink.27872b1581c4.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/img/icon_alert.572a03fff47e.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/img/icon_calendar.b4704fc81e9d.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/img/icon_changelink.76183412227f.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/img/icon_clock.d65ba15015dd.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/img/icon_deletelink.b797f0120322.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/img/icon_error.d0272cd88394.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/img/icon_searchbox.46952c2c6973.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/img/icon_success.08e6b9d922e1.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/img/inline-delete-8bit.1c135ffae5f0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/img/inline-delete.4df86317f5c4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/img/inline-restore-8bit.19cd843fa6f9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/img/inline-restore.a14579a2580f.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/img/inline-splitter-bg.3d67b08b4771.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/img/nav-bg-grabber.45d7c744bbe8.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/img/nav-bg-reverse.bd4701ff1aeb.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/img/nav-bg-selected.4ebddc881b37.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/img/nav-bg.5dadb8cd9865.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/img/selector-icons.4549da0d5c7f.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/img/selector-search.a5de786630be.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/img/sorting-icons.2a27f8855e6b.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/img/tooltag-add.2152fd3b4a4d.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/img/tooltag-arrowright.5aa2c86314d7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/js/LICENSE-JQUERY.3c2025538601.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/js/LICENSE-JQUERY.3c2025538601.txt.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/js/LICENSE-JQUERY.txt.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/js/SelectBox.df843afcc450.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/js/SelectBox.df843afcc450.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/js/SelectBox.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/js/SelectFilter2.54a4515a9134.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/js/SelectFilter2.54a4515a9134.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/js/SelectFilter2.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/js/actions.42b74ac13f07.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/js/actions.42b74ac13f07.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/js/actions.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/js/actions.min.2893760b9e40.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/js/actions.min.2893760b9e40.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/js/actions.min.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/js/admin/DateTimeShortcuts.140919a6a17e.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/js/admin/DateTimeShortcuts.140919a6a17e.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/js/admin/DateTimeShortcuts.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/js/admin/RelatedObjectLookups.58b2336c1e19.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/js/admin/RelatedObjectLookups.58b2336c1e19.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/js/admin/RelatedObjectLookups.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/js/calendar.df720acbe7bb.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/js/calendar.df720acbe7bb.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/js/calendar.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/js/collapse.c781bafaf192.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/js/collapse.c781bafaf192.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/js/collapse.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/js/collapse.min.bf4e82bb444b.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/js/collapse.min.bf4e82bb444b.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/js/collapse.min.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/js/core.78280057239a.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/js/core.78280057239a.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/js/core.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/js/inlines.ec5c4bfbf84d.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/js/inlines.ec5c4bfbf84d.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/js/inlines.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/js/inlines.min.e3cd9638369f.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/js/inlines.min.e3cd9638369f.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/js/inlines.min.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/js/jquery.c0b3962f9f23.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/js/jquery.c0b3962f9f23.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/js/jquery.init.575b5609d57c.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/js/jquery.init.575b5609d57c.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/js/jquery.init.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/js/jquery.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/js/jquery.min.5790ead7ad3b.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/js/jquery.min.5790ead7ad3b.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/js/jquery.min.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/js/prepopulate.cd237b18d36c.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/js/prepopulate.cd237b18d36c.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/js/prepopulate.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/js/prepopulate.min.4479f53b704f.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/js/prepopulate.min.4479f53b704f.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/js/prepopulate.min.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/js/related-widget-wrapper.3641d148e433.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/js/related-widget-wrapper.3641d148e433.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/js/related-widget-wrapper.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/js/timeparse.a298a7ede5c3.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/js/timeparse.a298a7ede5c3.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/js/timeparse.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/js/urlify.687bc28c85b7.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/js/urlify.687bc28c85b7.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/admin/js/urlify.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/bootstrap-theme.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/bootstrap-theme.min.9377a32d485f.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/bootstrap-theme.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/debug_toolbar/css/toolbar.73756ca67ffa.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/debug_toolbar/css/toolbar.73756ca67ffa.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/debug_toolbar/css/toolbar.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/debug_toolbar/img/ajax-loader.d96a4c3765e9.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/debug_toolbar/img/back.1a85a8afa24e.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/debug_toolbar/img/back_hover.d1e655d74852.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/debug_toolbar/img/close.c592da3c89b6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/debug_toolbar/img/close_hover.2592d7057d2c.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/debug_toolbar/img/djdt_vertical.204979d634f7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/debug_toolbar/img/indicator.5eb28882cc03.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/debug_toolbar/js/toolbar.f7b7d0ee61f9.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/debug_toolbar/js/toolbar.f7b7d0ee61f9.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/debug_toolbar/js/toolbar.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/debug_toolbar/js/toolbar.profiling.854924d13d6d.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/debug_toolbar/js/toolbar.profiling.854924d13d6d.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/debug_toolbar/js/toolbar.profiling.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/debug_toolbar/js/toolbar.sql.de0bfe159d7a.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/debug_toolbar/js/toolbar.sql.de0bfe159d7a.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/debug_toolbar/js/toolbar.sql.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/debug_toolbar/js/toolbar.template.ef8e759fa78a.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/debug_toolbar/js/toolbar.template.ef8e759fa78a.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/debug_toolbar/js/toolbar.template.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/debug_toolbar/js/toolbar.timer.ed75352f63b7.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/debug_toolbar/js/toolbar.timer.ed75352f63b7.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/debug_toolbar/js/toolbar.timer.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/CR1.1/index.f399b90f2e78.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/CR1.1/index.f399b90f2e78.html.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/CR1.1/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/CR1.1/index.html.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/CR1.1/styles.cc05898e537a.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/CR1.1/styles.cc05898e537a.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/CR1.1/styles.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/CR1.1/styles.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/CR2.2/index.a3d573058c2c.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/CR2.2/index.a3d573058c2c.html.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/CR2.2/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/CR2.2/index.html.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/CR2.2/styles.cc05898e537a.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/CR2.2/styles.cc05898e537a.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/CR2.2/styles.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/CR2.2/styles.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/NW1.2/index.6790ff9b2692.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/NW1.2/index.6790ff9b2692.html.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/NW1.2/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/NW1.2/index.html.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/NW1.2/styles.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/NW1.2/styles.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/NW1.2/styles.dbe4a091ce6f.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/NW1.2/styles.dbe4a091ce6f.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/NW2.3/index.11542bc69859.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/NW2.3/index.11542bc69859.html.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/NW2.3/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/NW2.3/index.html.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/NW2.3/styles.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/NW2.3/styles.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/NW2.3/styles.dbe4a091ce6f.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/NW2.3/styles.dbe4a091ce6f.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/NW3.4/index.9d6cf991b5eb.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/NW3.4/index.9d6cf991b5eb.html.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/NW3.4/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/NW3.4/index.html.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/NW3.4/styles.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/NW3.4/styles.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/NW3.4/styles.dbe4a091ce6f.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/NW3.4/styles.dbe4a091ce6f.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/PDHCertificate_Envision_Online_Training.fbdf8a28a36f.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/PDHCertificate_Envision_Online_Training.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/QL1.2/index.17b185b05eee.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/QL1.2/index.17b185b05eee.html.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/QL1.2/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/QL1.2/index.html.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/QL1.2/styles.7152d7589589.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/QL1.2/styles.7152d7589589.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/QL1.2/styles.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/QL1.2/styles.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/QL2.3/index.6b61066c9d37.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/QL2.3/index.6b61066c9d37.html.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/QL2.3/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/QL2.3/index.html.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/QL2.3/styles.7152d7589589.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/QL2.3/styles.7152d7589589.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/QL2.3/styles.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/QL2.3/styles.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/QL2.5/index.577a81d02d86.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/QL2.5/index.577a81d02d86.html.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/QL2.5/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/QL2.5/index.html.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/QL2.5/styles.7152d7589589.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/QL2.5/styles.7152d7589589.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/QL2.5/styles.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/QL2.5/styles.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/QL3.2/index.c070110095e5.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/QL3.2/index.c070110095e5.html.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/QL3.2/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/QL3.2/index.html.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/QL3.2/styles.7152d7589589.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/QL3.2/styles.7152d7589589.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/QL3.2/styles.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/QL3.2/styles.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/QL3.3/index.0fafac31aa3b.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/QL3.3/index.0fafac31aa3b.html.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/QL3.3/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/QL3.3/index.html.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/QL3.3/styles.7152d7589589.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/QL3.3/styles.7152d7589589.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/QL3.3/styles.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/QL3.3/styles.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/details.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/irb/index.42a58612d7ee.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/irb/index.42a58612d7ee.html.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/irb/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/irb/index.html.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/irb/styles.6144d649e03a.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/irb/styles.6144d649e03a.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/irb/styles.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/irb/styles.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/psomas/CR1_1.b6dabc962235.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/psomas/CR1_1.b6dabc962235.pdf (1).gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/psomas/CR1_1.b6dabc962235.pdf.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/psomas/CR1_1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/psomas/CR1_1.pdf.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/psomas/CR2_2.96a020b42389.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/psomas/CR2_2.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/psomas/NW1_2.2258c6525a10.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/psomas/NW1_2.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/psomas/NW3_4.465a24faf3ac.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/psomas/NW3_4.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/psomas/Nw2_3.64a356f43f9e.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/psomas/Nw2_3.64a356f43f9e.pdf.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/psomas/Nw2_3.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/psomas/Nw2_3.pdf.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/psomas/QL1_2.2b0f9748302c.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/psomas/QL1_2.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/psomas/QL2_3.78ecbaad144d.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/psomas/QL2_3.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/psomas/QL2_5.189cd11dfe7e.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/psomas/QL2_5.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/psomas/QL3_2.c8c74f39a910.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/psomas/QL3_2.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/psomas/QL3_3.07bbebb2a516.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/psomas/QL3_3.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/psomas/answers.ba885f989eec.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/psomas/answers.ba885f989eec.html.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/psomas/answers.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/psomas/answers.html.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/psomas/layout.3eaf2523fc27.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/psomas/layout.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/psomas/styles.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/psomas/styles.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/psomas/styles.fa8d4039029c.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/details/psomas/styles.fa8d4039029c.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/django_extensions/css/jquery.autocomplete.aee02640594e.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/django_extensions/css/jquery.autocomplete.aee02640594e.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/django_extensions/css/jquery.autocomplete.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/django_extensions/img/indicator.03ce3dcc84af.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/django_extensions/js/jquery-1.7.2.min.b8d64d0bc142.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/django_extensions/js/jquery-1.7.2.min.b8d64d0bc142.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/django_extensions/js/jquery-1.7.2.min.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/django_extensions/js/jquery.ajaxQueue.ac504621bdd8.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/django_extensions/js/jquery.ajaxQueue.ac504621bdd8.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/django_extensions/js/jquery.ajaxQueue.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/django_extensions/js/jquery.autocomplete.26e55daaf7c5.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/django_extensions/js/jquery.autocomplete.26e55daaf7c5.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/django_extensions/js/jquery.autocomplete.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/django_extensions/js/jquery.bgiframe.min.c8acb6921ba6.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/django_extensions/js/jquery.bgiframe.min.c8acb6921ba6.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/django_extensions/js/jquery.bgiframe.min.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/images/layout_rendering.89cb114ba182.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/images/layout_rendering.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/images/site.1e6262f49ef9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/images/site.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/images/south_la_park.9105ae685d32.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/images/south_la_park.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/images/town.edad71cf4b90.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/images/town.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/js/jquery.397754ba49e9.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/js/jquery.397754ba49e9.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/js/jquery.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/main.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/rating.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/static/xxx/.jshintignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/static/xxx/.jshintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/static/xxx/LICENSE-MIT" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/static/xxx/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/static/xxx/demo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/static/xxx/happy.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/static/xxx/happy.methods.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/static/xxx/test/jquery-1.4.4.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/static/xxx/test/qunit/qunit.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/static/xxx/test/qunit/qunit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/static/xxx/test/test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/static/xxx/test/tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/static/xxx/test/underscore.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/static/xxx/test/zepto-0.4.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/static/xxx/test/zepto.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/styles.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/surveys/styles.4bbbf84195f3.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/surveys/styles.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/surveys/survey1.08c99da6b6bc.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/surveys/survey1.08c99da6b6bc.html.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/surveys/survey1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/surveys/survey1.html.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/surveys/survey2.10128092c4d1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/surveys/survey2.10128092c4d1.html.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/surveys/survey2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/surveys/survey2.html.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/surveys/survey3.60b5ad30ee14.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/surveys/survey3.60b5ad30ee14.html.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/surveys/survey3.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/surveys/survey3.html.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/videos/EnvisionIntroduction.4ecd8e86116d.mp4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/videos/EnvisionIntroduction.4ecd8e86116d.mp4.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/videos/EnvisionIntroduction.mp4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/videos/EnvisionIntroduction.mp4.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/videos/EnvisionWebsiteGuide.b67f9816d431.mp4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/videos/EnvisionWebsiteGuide.b67f9816d431.mp4.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/videos/EnvisionWebsiteGuide.mp4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/videos/EnvisionWebsiteGuide.mp4.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/xxx/LICENSE-MIT" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/xxx/LICENSE-MIT.1f34a7c79802" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/xxx/LICENSE-MIT.1f34a7c79802.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/xxx/LICENSE-MIT.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/xxx/README.6e08b006e6ca.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/xxx/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/xxx/demo.cef42854930d.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/xxx/demo.cef42854930d.html.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/xxx/demo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/xxx/demo.html.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/xxx/happy.aca4a8d7de84.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/xxx/happy.aca4a8d7de84.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/xxx/happy.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/xxx/happy.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/xxx/happy.methods.7dcc634cfa94.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/xxx/happy.methods.7dcc634cfa94.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/xxx/happy.methods.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/xxx/happy.methods.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/xxx/test/jquery-1.4.4.min.67c5aa793a87.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/xxx/test/jquery-1.4.4.min.67c5aa793a87.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/xxx/test/jquery-1.4.4.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/xxx/test/jquery-1.4.4.min.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/xxx/test/qunit/qunit.af8741f66244.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/xxx/test/qunit/qunit.af8741f66244.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/xxx/test/qunit/qunit.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/xxx/test/qunit/qunit.css.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/xxx/test/qunit/qunit.fa21f313bd06.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/xxx/test/qunit/qunit.fa21f313bd06.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/xxx/test/qunit/qunit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/xxx/test/qunit/qunit.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/xxx/test/test.54d4838f9c51.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/xxx/test/test.54d4838f9c51.html.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/xxx/test/test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/xxx/test/test.html.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/xxx/test/tests.8907d99479e2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/xxx/test/tests.8907d99479e2.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/xxx/test/tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/xxx/test/tests.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/xxx/test/underscore.ced3821ade7d.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/xxx/test/underscore.ced3821ade7d.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/xxx/test/underscore.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/xxx/test/underscore.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/xxx/test/zepto-0.4.75e75236c7c5.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/xxx/test/zepto-0.4.75e75236c7c5.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/xxx/test/zepto-0.4.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/xxx/test/zepto-0.4.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/xxx/test/zepto.a5198fc1638c.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/xxx/test/zepto.a5198fc1638c.html.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/xxx/test/zepto.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/envision/engineer/xxx/test/zepto.html.gz" afterPath="" />
     </list>
     <ignored path="envision-edu.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -148,134 +528,6 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT USER_OBJECT="envision">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="envision-edu">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="envision">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="envision">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="envision-edu">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="envision">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="engineer">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="envision-edu">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="envision">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="engineer">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="templates">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="envision-edu">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="envision">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="engineer">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="templates">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="engineer">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="envision-edu">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="envision">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="engineer">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="static">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="envision-edu">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="envision">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="engineer">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="details">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
@@ -603,14 +855,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1230" height="640" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26430976" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.37794614" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
@@ -866,7 +1118,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
           <folding>
-            <element signature="e#222#231#0" expanded="true" />
+            <element signature="e#222#231#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -875,14 +1127,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/envision/engineer/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.42528737">
-          <caret line="276" column="12" selection-start-line="276" selection-start-column="12" selection-end-line="276" selection-end-column="12" />
           <folding />
         </state>
       </provider>
@@ -899,14 +1143,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5192308">
           <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/envision/engineer/details/details.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.40384614">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
