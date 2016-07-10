@@ -21,6 +21,9 @@ from django.contrib.auth.decorators import login_required
 from django.views.generic import TemplateView
 from engineer import views as engineer_views
 
+from django.conf import settings
+from django.conf.urls.static import static
+
 urlpatterns = [
     url(r'^admin/', include(admin.site.urls)),
     url('^', include('django.contrib.auth.urls')),
